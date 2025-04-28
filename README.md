@@ -64,7 +64,6 @@ Demo Video Link : https://drive.google.com/file/d/1VLIU-fHRX6S3MIQnrayenmndHGMQw
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/architaa1/Doctors_Appointment_Website.git
 cd Doctors_Appointment_Website
 
